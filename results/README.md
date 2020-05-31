@@ -19,7 +19,7 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 ### Verbs related to cooking processes or food transformations:
 
 | EXAMPLES   |     |     |               |        |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | fry             | evaporate         | dissolve          | braise   | freeze          |
 | pan-fry         | thicken           | toast             | chill    | refrigerate     |
 | grill           | dry               | pan-roasted       | blanch   | boil            |
@@ -32,7 +32,7 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 
 ### Verbs related to a purpose/goal:
 
-| EXAMPLES   |     |     |              |         |
+| EXAMPLES   |     |     |          |
 | --- | --- | --- | --- |
 | add | cook | prepare | remove |
 | serve | transfer | garnish | store |
