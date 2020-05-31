@@ -18,15 +18,15 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 
 ### Verbs related to cooking processes or food transformations:
 
-fry             evaporate         dissolve          braise
-pan-fry         thicken           toast             chill
-grill           dry               pan-roasted       blanch
-bake            smoke             dilute            blanch
-roast           hold              simmer            stew
-melt            marinate          poach             crisp
-freeze          refrigerate       boil              emulsify
-thaw            preheat           brown             foam
-coagulate       reheat            broil             ...
+|fry             |evaporate         |dissolve          |braise  |
+|pan-fry         |thicken           |toast             |chill   |
+|grill           |dry               |pan-roasted       |blanch  |
+|bake            |smoke             |dilute            |blanch  |
+|roast           |hold              |simmer            |stew    |
+|melt            |marinate          |poach             |crisp   |
+|freeze          |refrigerate       |boil              |emulsify|
+|thaw            |preheat           |brown             |foam    |
+|coagulate       |reheat            |broil             |...     |
 
 (Complete list inside the code file.)
 
