@@ -18,24 +18,35 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 
 ### Verbs related to cooking processes or food transformations:
 
-| EXAMPLES   |     |     |                       |
+| EXAMPLES   |     |     |               |        |
 | --- | --- | --- | --- |
-| fry             | evaporate         | dissolve          | braise   |
-| pan-fry         | thicken           | toast             | chill    |
-| grill           | dry               | pan-roasted       | blanch   |
-| bake            | smoke             | dilute            | blanch   |
-| roast           | hold              | simmer            | stew     | 
-| melt            | marinate          | poach             | crisp    |
-| freeze          | refrigerate       | boil              | emulsify |
-| thaw            | preheat           | brown             | ...      |
+| fry             | evaporate         | dissolve          | braise   | freeze          |
+| pan-fry         | thicken           | toast             | chill    | refrigerate     |
+| grill           | dry               | pan-roasted       | blanch   | boil            |
+| bake            | smoke             | dilute            | blanch   | thaw            |
+| roast           | hold              | simmer            | stew     | preheat         | 
+| melt            | marinate          | poach             | crisp    | ...             |
 
 
 (Complete list inside the code file.)
 
 ### Verbs related to a purpose/goal:
 
+| EXAMPLES   |     |     |              |         |
+| --- | --- | --- | --- |
+| add | cook | prepare | remove |
+| serve | transfer | garnish | store |
+| sanitize | open | close | compose |
+| spread | discard | combine | clean |
+| shape | split | extract | eliminate |
+| assemble | cover | empty | wash |
+| flatten | put | separate | ... |
 
-### 
+### Verbs unrelated to culinary:
+
+
+### Words misrecognized as verbs:
+
 
 
 ## Movement-related verbs (retained) and their definitions
