@@ -18,6 +18,8 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 
 ### Verbs related to cooking processes or food transformations:
 
+| example         | example           | example           | example  |
+| --- | --- | --- | --- |
 | fry             | evaporate         | dissolve          | braise   |
 | pan-fry         | thicken           | toast             | chill    |
 | grill           | dry               | pan-roasted       | blanch   |
