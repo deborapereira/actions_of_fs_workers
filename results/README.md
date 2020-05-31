@@ -16,7 +16,8 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 
 ## Movement-related verbs (retained) 
 
-| VERB | DEFINITION                |   
+| VERB | DEFINITION                |
+| --- | --- |
 | beat |                           |   
 | blend |                          |   
 | bread |                          |   
