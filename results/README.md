@@ -14,6 +14,64 @@ All verbs were extracted from each book, using the code in action_verbs_extracti
 Verbs unrelated to movement (actions or tasks) were discarded. The retained verbs were classified as action or task according to the specificity/complexity of the movement expressed by the verb.
 
 
+## Movement-related verbs (retained) 
+
+| VERB | DEFINITION                |   
+| beat |                           |   
+| blend |                          |   
+| bread |                          |   
+| break |                          |   
+| carry |                          |      
+| chop |                           |     
+| dice |                           |      
+| dip/plunge/immerse |             |     
+| fillet |                         |      
+| flip/turn |                      |     
+| fold |                           |      
+| grate |                          |      
+| grease |                         |
+| grind/mill/crush/crack |         |
+| gut  |                           | 
+| insert |                          |
+| mash   |                          |
+| mince  |                          | 
+| mold   |                          |
+| peel   |                          | 
+| pick up |                         |
+|  pierce  |                        |
+| pit/core |                        | 
+| place    |                        |
+| pour     |                        |
+| press    |                        |
+| rinse    |                        |
+| roll     |                        |
+| rotate   |                        |
+| rub/scrub |                          |    
+|  score  |                        |
+|  scrape|                         |
+|  seal |                           | 
+| sew |                          |
+|  shake  |                          |
+| shave  |                          | 
+|shell/shuck|                          |
+|   shred |                          | 
+|  sift |                         |
+| skim |                        | 
+|   skin  |                        |
+| slice     |                        |
+|   sprinkle  |                        |
+|  squeeze   |                        |
+|  stem    |                        |
+|   stir |                        |
+|  strain    |                        |
+|  stuff  |                        |
+|  toss  |                        |
+|  trim  |                        |
+| whip   |                        |
+|  wipe  |                        |
+
+
+
 ## Verbs not expressing an action/task (discarded)
 
 ### Verbs related to cooking processes or food transformations:
@@ -58,7 +116,7 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 
 
 
-### Words misrecognized as verbs:
+### Words (or tokens) misrecognized as verbs:
 
 | EXAMPLES   |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -68,9 +126,6 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 |cod |sauce| long-grain| sweet |pipe|
 |jiggle| dub| force-cool| yolk| green|
 |flour| wooden| sink |creen |...|
-
-
-## Movement-related verbs (retained) and their definitions
 
 
 
