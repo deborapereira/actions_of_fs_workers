@@ -30,7 +30,8 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 
 (Complete list inside the code file.)
 
-### Verbs related to a purpose/goal:
+
+### Verbs related to a purpose/goal or to a very general meaning:
 
 | EXAMPLES   |     |     |          |
 | --- | --- | --- | --- |
@@ -40,13 +41,33 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 | spread | discard | combine | clean |
 | shape | split | extract | eliminate |
 | assemble | cover | empty | wash |
-| flatten | put | separate | ... |
+| flatten | mix | separate | ... |
+
+
 
 ### Verbs unrelated to culinary:
+
+| EXAMPLES   |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| accept | admit | advertise | advise | afford |
+| approve | authorize | avoid | borrow | build |
+| buy | calculate | call | cancel | change |
+| charge | check | choose | complain | complete |
+| confirm | consider | convince | count | decide |
+| decrease | deliver | develop | dismiss | ... |
+
 
 
 ### Words misrecognized as verbs:
 
+| EXAMPLES   |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| swirl |scorch |glaze | julienne |churn |
+|red| color| ebi |short-grain| fluff|
+|shallow | knob|whisk |dtied| ball|
+|cod |sauce| long-grain| sweet |pipe|
+|jiggle| dub| force-cool| yolk| green|
+|flour| wooden| sink |creen |...|
 
 
 ## Movement-related verbs (retained) and their definitions
