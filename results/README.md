@@ -18,7 +18,7 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 
 ### Verbs related to cooking processes or food transformations:
 
-"fry","pan-fry","grill","bake","roast","melt","freeze","thaw","coagulate","simmer","poach","boil","brown","broil", "braise","chill","blanch","stew","crisp","emulsify","foam","evaporate","thicken","dry","smoke","hold","marinate", "refrigerate","preheat","reheat","dissolve","toast","pan-roasted","dilute","unbleached","cool"
+"fry"   "pan-fry"   "grill"   "bake"   "roast"   "melt"   "freeze"   "thaw"   "coagulate","simmer","poach","boil","brown","broil", "braise","chill","blanch","stew","crisp","emulsify","foam","evaporate","thicken","dry","smoke","hold","marinate", "refrigerate","preheat","reheat","dissolve","toast","pan-roasted","dilute","unbleached","cool"
 
 ### Verbs related to a purpose/goal:
 
