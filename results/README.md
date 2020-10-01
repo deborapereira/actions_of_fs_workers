@@ -32,14 +32,14 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 | fillet  | cut a boneless tenderloin of meat or the side of a fish, intact, boneless or semiboneless, with or without skin [1] |
 |flip/turn| turn over or cause to turn over with a sudden sharp movement [1] |
 |fold/wrap| bend (something flexible and relatively flat) over on itself so that one part of it covers another [4] |      
-|  grate/crumble  | cut a food into small, thin shreds by rubbing it against a serrated metal plate [1] |      
-|  grease |                         |
-| grind/mill/crush/crack |         |
-|   gut   |                           | 
+|  grate/crumble  | grate: cut a food into small, thin shreds by rubbing it against a serrated metal plate [1]; crumble: Refers to the breaking or food into small pieces such as dried bread or crackers, cooked bacon, or certain hard, dry cheeses that tend to be brittle and easily broken apart [5] |
+|  grease/brush | smear (=coat) or lubricate with grease [4] |
+| grind/mill/crush/crack | to pulverize or reduce food to small particles (powder) using a mechanical grinder or food processor [1] |
+|   gut   | take out the intestines and other internal organs of (a fish or other animal) before cooking it [4] | 
 |  insert | place, or fit (something) into another thing [4] |
-|  mash   |                          |
-|  mince  |                          | 
-|  mold   |                          |
+|  mash   | reduce food (e.g. garlic, potatoes) to a uniform mass by crushing it [4] |
+|  mince  | cut into very small pieces when uniformity of shape is not important [1] | 
+|  mold   | shaping foods, particularly grains and vegetables bound by sauces, into attractive, hard-edged shapes by using metal rings, circular cutters or other forms [1]  |
 |  peel   |                          | 
 | pick up |                         |
 |  pierce |                        |
