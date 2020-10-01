@@ -11,65 +11,68 @@ Sources:
 
 All verbs were extracted from each book, using the code in action_verbs_extraction.m
 
-Verbs unrelated to movement (actions or tasks) were discarded. The retained verbs were classified as action or task according to the specificity/complexity of the movement expressed by the verb.
+Verbs unrelated to movement (actions or tasks) were discarded. The retained verbs were classified as action or task according to the specificity/complexity of the movement expressed by the verb. This specificity/complexity is expressed in the verb definition, btained complementarily from the culinary glossary in [1], the Oxford American Dictionary [4] and an online glossary [5].
+
+[4] Oxford Dictionaries and Oxford University Press, Concise Oxford American Dictionary, Oxford University Press, USA, 2006
+[5] "RecipeTips," [Online]. Available: https://www.recipetips.com/glossary.asp. [Accessed 03 2020].
 
 
 ## Movement-related verbs (retained) 
 
 | VERB | DEFINITION                |
 | --- | --- |
-| beat |                           |   
-| blend |                          |   
-| bread |                          |   
-| break |                          |   
-| carry |                          |      
-| chop |                           |     
-| dice |                           |      
-| dip/plunge/immerse |             |     
-| fillet |                         |      
-| flip/turn |                      |     
-| fold |                           |      
-| grate |                          |      
-| grease |                         |
+|   beat  | mixing method in which foods are vigorously agitated to incorporate air or develop gluten [1] |   
+|   blend | mixing method in which two or more ingredients are combined just until they are evenly distributed [1] |   
+|   bread | applying a coating of bread or cracker crumbs, cornmeal or other dry meal to foods that will typically be deep-fried or pan-fried [1] |   
+|   break | separate into pieces as a result of a blow, shock, or strain [4] |   
+|   carry | support and move (someone or something) from one place to another [4] |      
+|   chop  | cut into pieces when uniformity of size and shape is not important [1] |     
+|   dice  | cut into cubes with six equal-sized sides [1] |      
+| dip/plunge/immerse | put or let something down quickly or briefly in or into (liquid) [4] |     
+| fillet  | cut a boneless tenderloin of meat or the side of a fish, intact, boneless or semiboneless, with or without skin [1] |
+|flip/turn| turn over or cause to turn over with a sudden sharp movement [1] |
+|   fold  |                           |      
+|  grate  |                          |      
+|  grease |                         |
 | grind/mill/crush/crack |         |
-| gut  |                           | 
-| insert |                          |
-| mash   |                          |
-| mince  |                          | 
-| mold   |                          |
-| peel   |                          | 
+|   gut   |                           | 
+|  insert | place, or fit (something) into another thing [4] |
+|  mash   |                          |
+|  mince  |                          | 
+|  mold   |                          |
+|  peel   |                          | 
 | pick up |                         |
-|  pierce  |                        |
-| pit/core |                        | 
-| place    |                        |
-| pour     |                        |
-| press    |                        |
-| rinse    |                        |
-| roll     |                        |
-| rotate   |                        |
+|  pierce |                        |
+| pit/core|                        | 
+| place   |                        |
+| pour    |                        |
+| press   |                        |
+| rinse   |                        |
+| roll    |                        |
+| rotate  |                        |
 | rub/scrub |                          |    
 |  score  |                        |
-|  scrape|                         |
-|  seal |                           | 
-| sew |                          |
+|  scrape |                         |
+|   seal  |                           | 
+|   sew   |                          |
 |  shake  |                          |
-| shave  |                          | 
+| shave   |                          | 
 |shell/shuck|                          |
-|   shred |                          | 
-|  sift |                         |
-| skim |                        | 
+|  shred  |                          | 
+|   sift  |                         |
+|   skim  |                        | 
 |   skin  |                        |
-| slice     |                        |
-|   sprinkle  |                        |
-|  squeeze   |                        |
-|  stem    |                        |
-|   stir |                        |
-|  strain    |                        |
-|  stuff  |                        |
-|  toss  |                        |
-|  trim  |                        |
-| whip   |                        |
-|  wipe  |                        |
+| slice   |                        |
+| sprinkle|                        |
+| squeeze |                        |
+|  stem   |                        |
+|   stir  |                        |
+|  strain |                        |
+|  stuff  | fill (the cavity of an item of food) with a savory or sweet mixture, esp. before cooking [4], whith "fill": put something into (a space or container) so that it is completely or almost completely full [4] |
+|  toss   |                        |
+|  trim   |                        |
+|  whip   |                        |
+|  wipe   |                        |
 
 
 
