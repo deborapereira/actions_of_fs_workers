@@ -31,8 +31,8 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 | dip/plunge/immerse | put or let something down quickly or briefly in or into (liquid) [4] |     
 | fillet  | cut a boneless tenderloin of meat or the side of a fish, intact, boneless or semiboneless, with or without skin [1] |
 |flip/turn| turn over or cause to turn over with a sudden sharp movement [1] |
-|   fold  |                           |      
-|  grate  |                          |      
+|fold/wrap| bend (something flexible and relatively flat) over on itself so that one part of it covers another [4] |      
+|  grate/crumble  | cut a food into small, thin shreds by rubbing it against a serrated metal plate [1] |      
 |  grease |                         |
 | grind/mill/crush/crack |         |
 |   gut   |                           | 
@@ -56,7 +56,7 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 |   seal  |                           | 
 |   sew   |                          |
 |  shake  |                          |
-| shave   |                          | 
+| shave/chip| shave: cut (a thin slice or slices) from the surface of something (e.g. chocolate, meat, cheese, ice) [4]; chip: thinly slice [5, "chipped beef"] | 
 |shell/shuck|                          |
 |  shred  |                          | 
 |   sift  |                         |
@@ -67,7 +67,7 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 | squeeze |                        |
 |  stem   |                        |
 |   stir  |                        |
-|  strain |                        |
+|  strain | pour foods through a sieve,  mesh strainer or cheesecloth to separate or remove the liquid component [1] |
 |  stuff  | fill (the cavity of an item of food) with a savory or sweet mixture, esp. before cooking [4], whith "fill": put something into (a space or container) so that it is completely or almost completely full [4] |
 |  toss   |                        |
 |  trim   |                        |
