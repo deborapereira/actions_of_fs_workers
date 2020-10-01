@@ -40,40 +40,40 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 |  mash   | reduce food (e.g. garlic, potatoes) to a uniform mass by crushing it [4] |
 |  mince  | cut into very small pieces when uniformity of shape is not important [1] | 
 |  mold   | shaping foods, particularly grains and vegetables bound by sauces, into attractive, hard-edged shapes by using metal rings, circular cutters or other forms [1]  |
-|  peel   |                          | 
-| pick up |                         |
-|  pierce |                        |
-| pit/core|                        | 
-| place   |                        |
-| pour    |                        |
-| press   |                        |
-| rinse   |                        |
+|peel/hull| remove the outer covering or skin from (a fruit, vegetable, or shrimp) [4] | 
+|pick (up)| take hold of and lift or move [4] |
+|  pierce | (of a sharp pointed object) go into or through (something) [4] |
+| pit/core| removing the seeds or pit from a fruit or fruit-vegetable [1] | 
+| place   | put in a particular position [4] |
+| pour    | cause (a liquid) to flow from a container in a steady stream by holding the container at an angle [4] |
+| rinse   | use clean water to remove soap, detergent, dirt, or impurities [4] |
 | roll    |                        |
 | rotate  |                        |
-| rub/scrub |                          |    
-|  score  |                        |
-|  scrape |                         |
+| rub/scrub/brush | move one's hand or a cloth repeatedly back and forth on the surface of (something) with firm pressure so as to clean them, typically with a brush and water [4] |    
+|  scrape | push or pull a hard or sharp implement across (a surface or object) so as to remove dirt or other matter [4] |
 |   seal  |                           | 
 |   sew   |                          |
-|  shake  |                          |
+| shake * | move (an object) up and down or from side to side with rapid, forceful, jerky movements [4] |
 | shave/chip| shave: cut (a thin slice or slices) from the surface of something (e.g. chocolate, meat, cheese, ice) [4]; chip: thinly slice [5, "chipped beef"] | 
-|shell/shuck|                          |
-|  shred  |                          | 
-|   sift  |                         |
-|   skim  |                        | 
-|   skin  |                        |
-| slice   |                        |
-| sprinkle|                        |
-| squeeze |                        |
+|shell/shuck| The process of removing, peeling or discarding the outer covering on food items such as nuts, corn and shellfish. The husk is peeled from an ear of corn, the shell is removed from a nut, and the outer shell of a shellfish such as an oyster or a clam is also similarly removed or "shucked." [5]; remove the edible portion of a food (for example, clam meat, peas or an ear of corn) from its shell, pod or husk [1] |
+|  shred  | cut into thin but irregular strips [1] | 
+|   sift  | shaking one or more dry substances through a sieve or sifter to remove lumps, incorporate air and mix [1] |
+| skim (degrease/defoam) | to remove fat and impurities from the surface of a liquid during cooking [1] | 
+|   skin  | to remove the skin from fish, poultry or game for reasons which include diet, taste and appearance. [5] |
+| slice   | to cut an item into relatively broad, thin pieces [1] |
+| sprinkle| scatter or pour small drops or particles of a substance over (an object or surface) [4] |
+| squeeze | extract (liquid or a soft substance) from something by compressing or twisting it firmly [4] |
 |  stem   |                        |
 |   stir  |                        |
 |  strain | pour foods through a sieve,  mesh strainer or cheesecloth to separate or remove the liquid component [1] |
+| stretch | flatten or spread (something) by using a roller or by passing it between rollers [4] |
 |  stuff  | fill (the cavity of an item of food) with a savory or sweet mixture, esp. before cooking [4], whith "fill": put something into (a space or container) so that it is completely or almost completely full [4] |
 |  toss   |                        |
 |  trim   |                        |
 |  whip   |                        |
 |  wipe   |                        |
 
+* The verb "shake" is used as "shake off" an excess of an ingredient (e.g. flour covering another food), or to separate stuck food pieces, by shaking a pan or basket. Then, it is rarely used for other purposes but in substitution of stir  e.g. in drinks preparation, or in alternative to sprinkle to shake a container of seasonings.
 
 
 ## Verbs not expressing an action/task (discarded)
