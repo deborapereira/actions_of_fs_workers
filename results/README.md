@@ -52,8 +52,8 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 | rub/scrub/brush | move one's hand or a cloth repeatedly back and forth on the surface of (something) with firm pressure so as to clean them, typically with a brush and water [4] |    
 |  scrape | push or pull a hard or sharp implement across (a surface or object) so as to remove dirt or other matter [4] |
 |   seal  | fasten or close securely [4] | 
-|   sew   |                          |
-| shake * | move (an object) up and down or from side to side with rapid, forceful, jerky movements [4] |
+|sew/truss* | sew: join, fasten, or repair (something) by making stitches with a needle and thread or a sewing machine; truss: to tie poultry with butcher’s twine into a compact shape for cooking [2]; tie up the wings and legs of (a chicken or other bird) before cooking [4] |
+| shake** | move (an object) up and down or from side to side with rapid, forceful, jerky movements [4] |
 | shave/chip| shave: cut (a thin slice or slices) from the surface of something (e.g. chocolate, meat, cheese, ice) [4]; chip: thinly slice [5, "chipped beef"] | 
 |shell/shuck| The process of removing, peeling or discarding the outer covering on food items such as nuts, corn and shellfish. The husk is peeled from an ear of corn, the shell is removed from a nut, and the outer shell of a shellfish such as an oyster or a clam is also similarly removed or "shucked." [5]; remove the edible portion of a food (for example, clam meat, peas or an ear of corn) from its shell, pod or husk [1] |
 |  shred  | cut into thin but irregular strips [1] | 
@@ -73,7 +73,8 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 |  whip   |                        |
 |  wipe   |                        |
 
-* The verb "shake" is used as "shake off" an excess of an ingredient (e.g. flour covering another food), or to separate stuck food pieces, by shaking a pan or basket. Then, it is rarely used for other purposes but in substitution of stir  e.g. in drinks preparation, or in alternative to sprinkle to shake a container of seasonings.
+* The verb *sew (up)* is used in the Italian culinary book [3] in similar contexts to the use of the verb *truss* in the book [1], i.e. for closing meat pieces involving other parts (e.g. when stuffing chicken) before cooking.
+** The verb *shake* is used as "shake off" an excess of an ingredient (e.g. flour covering another food), or to separate stuck food pieces, by shaking a pan or basket. Then, it is rarely used for other purposes but in substitution of stir  e.g. in drinks preparation, or in alternative to sprinkle to shake a container of seasonings.
 
 
 ## Verbs not expressing an action/task (discarded)
