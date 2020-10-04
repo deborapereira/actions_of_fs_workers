@@ -28,7 +28,7 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 |   carry | support and move (someone or something) from one place to another [4] |      
 |   chop  | cut into pieces when uniformity of size and shape is not important [1] |     
 |   dice  | cut into cubes with six equal-sized sides [1] |      
-| dip/plunge/immerse | put or let something down quickly or briefly in or into (liquid) [4] |     
+| dip/plunge/immerse | put or let something down quickly or briefly in or into (liquid) [4] | 
 | fillet  | cut a boneless tenderloin of meat or the side of a fish, intact, boneless or semiboneless, with or without skin [1] |
 |flip/turn| turn over or cause to turn over with a sudden sharp movement [1] |
 |fold/wrap| bend (something flexible and relatively flat) over on itself so that one part of it covers another [4] |      
@@ -47,11 +47,11 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 | place   | put in a particular position [4] |
 | pour    | cause (a liquid) to flow from a container in a steady stream by holding the container at an angle [4] |
 | rinse   | use clean water to remove soap, detergent, dirt, or impurities [4] |
-| roll    |                        |
-| rotate  |                        |
+| roll    | turn (something flexible) over and over on itself to form a cylinder, tube, or ball [4] |
+| rotate  | move in a circle around an axis or center [4] |
 | rub/scrub/brush | move one's hand or a cloth repeatedly back and forth on the surface of (something) with firm pressure so as to clean them, typically with a brush and water [4] |    
 |  scrape | push or pull a hard or sharp implement across (a surface or object) so as to remove dirt or other matter [4] |
-|   seal  |                           | 
+|   seal  | fasten or close securely [4] | 
 |   sew   |                          |
 | shake * | move (an object) up and down or from side to side with rapid, forceful, jerky movements [4] |
 | shave/chip| shave: cut (a thin slice or slices) from the surface of something (e.g. chocolate, meat, cheese, ice) [4]; chip: thinly slice [5, "chipped beef"] | 
@@ -66,7 +66,7 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 |  stem   |                        |
 |   stir  |                        |
 |  strain | pour foods through a sieve,  mesh strainer or cheesecloth to separate or remove the liquid component [1] |
-| stretch | flatten or spread (something) by using a roller or by passing it between rollers [4] |
+| stretch/roll out | flatten or spread (something) by using a roller or by passing it between rollers [4] |
 |  stuff  | fill (the cavity of an item of food) with a savory or sweet mixture, esp. before cooking [4], whith "fill": put something into (a space or container) so that it is completely or almost completely full [4] |
 |  toss   |                        |
 |  trim   |                        |
