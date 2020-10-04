@@ -69,7 +69,7 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 |  strain | pour foods through a sieve,  mesh strainer or cheesecloth to separate or remove the liquid component [1] |
 | stretch/roll out | flatten or spread (something) by using a roller or by passing it between rollers [4] |
 |  stuff  | fill (the cavity of an item of food) with a savory or sweet mixture, esp. before cooking [4], whith "fill": put something into (a space or container) so that it is completely or almost completely full [4] |
-|  toss ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=toss)   | throw (something) somewhere lightly, easily, or casually / shake or turn (food) in a liquid, so as to coat it lightly [4] |
+|  ```diff - toss```| throw (something) somewhere lightly, easily, or casually / shake or turn (food) in a liquid, so as to coat it lightly [4] |
 |  trim   |                        |
 |  whip   |                        |
 |  wipe   |                        |
