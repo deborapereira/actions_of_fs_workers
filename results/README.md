@@ -11,13 +11,13 @@ Sources:
 
 All verbs were extracted from each book, using the code in action_verbs_extraction.m
 
-Verbs unrelated to movement (actions or tasks) were discarded. The retained verbs were classified as action or task according to the specificity/complexity of the movement expressed by the verb. This specificity/complexity is expressed in the verb definition, btained complementarily from the culinary glossary in [1], the Oxford American Dictionary [4] and an online glossary [5].
+Verbs unrelated to movement (actions or tasks) were discarded. The retained verbs were classified as action or task according to the specificity/complexity of the movement expressed by the verb. This specificity/complexity is implied in the verb definition, obtained complementarily from the culinary glossary in [1], the Oxford American Dictionary [4] and an online glossary [5].
 
 [4] Oxford Dictionaries and Oxford University Press, Concise Oxford American Dictionary, Oxford University Press, USA, 2006
 [5] "RecipeTips," [Online]. Available: https://www.recipetips.com/glossary.asp. [Accessed 03 2020].
 
 
-## Movement-related verbs (retained) 
+## Movement-related verbs expressing an action 
 
 | VERB | DEFINITION                |
 | --- | --- |
