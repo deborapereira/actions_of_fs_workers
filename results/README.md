@@ -27,7 +27,8 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 |   break | separate into pieces as a result of a blow, shock, or strain [4] |   
 |   carry | support and move (someone or something) from one place to another [4] |      
 |   chop  | cut into pieces when uniformity of size and shape is not important [1] |     
-|   dice  | cut into cubes with six equal-sized sides [1] |      
+|   dice  | cut into cubes with six equal-sized sides [1] | 
+| divide  | separate or be separated into parts/portions [4] |
 | dip/plunge/immerse | put or let something down quickly or briefly in or into (liquid) [4] | 
 | fillet  | cut a boneless tenderloin of meat or the side of a fish, intact, boneless or semiboneless, with or without skin [1] |
 |flip/turn| turn over or cause to turn over with a sudden sharp movement [1] |
@@ -70,9 +71,9 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 | stretch/roll out | flatten or spread (something) by using a roller or by passing it between rollers [4] |
 |  stuff  | fill (the cavity of an item of food) with a savory or sweet mixture, esp. before cooking [4], whith "fill": put something into (a space or container) so that it is completely or almost completely full [4] |
 | toss    | **throw (something) somewhere lightly, easily, or casually / shake or turn (food) in a liquid, so as to coat it lightly [4]; To mix the ingredients of a food dish, such as salads and pasta, by using a light lift and drop method. The food is turned over and mixed together [5]** |
-|  trim   |                        |
-|  whip   |                        |
-|  wipe   |                        |
+|trim/pare| cut off (irregular or unwanted parts) [4] |
+|  whip   | mixing method in which foods are vigorously beaten in order to incorporate air [1] |
+|  wipe   | clean or dry (something) by rubbing its surface with a cloth, a piece of paper, or one's hand [4] |
 
 ** The verb *sew (up)* is used in the Italian culinary book [3] in similar contexts to the use of the verb *truss* in the book [1], i.e. for closing meat pieces involving other parts (e.g. when stuffing chicken) before cooking.
 
