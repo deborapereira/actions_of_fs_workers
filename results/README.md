@@ -74,6 +74,7 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 |  wipe   |                        |
 
 * The verb *sew (up)* is used in the Italian culinary book [3] in similar contexts to the use of the verb *truss* in the book [1], i.e. for closing meat pieces involving other parts (e.g. when stuffing chicken) before cooking.
+
 ** The verb *shake* is used as "shake off" an excess of an ingredient (e.g. flour covering another food), or to separate stuck food pieces, by shaking a pan or basket. Then, it is rarely used for other purposes but in substitution of stir  e.g. in drinks preparation, or in alternative to sprinkle to shake a container of seasonings.
 
 
