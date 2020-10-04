@@ -52,7 +52,7 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 | rub/scrub/brush | move one's hand or a cloth repeatedly back and forth on the surface of (something) with firm pressure so as to clean them, typically with a brush and water [4] |    
 |  scrape | push or pull a hard or sharp implement across (a surface or object) so as to remove dirt or other matter [4] |
 |   seal  | fasten or close securely [4] | 
-|sew/truss** | sew: join, fasten, or repair (something) by making stitches with a needle and thread or a sewing machine; truss: to tie poultry with butcher’s twine into a compact shape for cooking [2]; tie up the wings and legs of (a chicken or other bird) before cooking [4] |
+|sew/truss** | sew: join, fasten, or repair (something) by making stitches with a needle and thread or a sewing machine; truss: to tie poultry with butcher’s twine into a compact shape for cooking [2]; tie up the wings and legs of (a chicken or other bird) before cooking [4] ("...to hold the bird parts together" [5]) |
 | shake*** | move (an object) up and down or from side to side with rapid, forceful, jerky movements [4] |
 | shave/chip| shave: cut (a thin slice or slices) from the surface of something (e.g. chocolate, meat, cheese, ice) [4]; chip: thinly slice [5, "chipped beef"] | 
 |shell/shuck| The process of removing, peeling or discarding the outer covering on food items such as nuts, corn and shellfish. The husk is peeled from an ear of corn, the shell is removed from a nut, and the outer shell of a shellfish such as an oyster or a clam is also similarly removed or "shucked." [5]; remove the edible portion of a food (for example, clam meat, peas or an ear of corn) from its shell, pod or husk [1] |
@@ -61,14 +61,15 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 | skim (degrease/defoam) | to remove fat and impurities from the surface of a liquid during cooking [1] | 
 |   skin  | to remove the skin from fish, poultry or game for reasons which include diet, taste and appearance. [5] |
 | slice   | to cut an item into relatively broad, thin pieces [1] |
+| spread  | cover (a surface) with a substance in such a way / distribute or disperse (something) over a certain area [4] |
 | sprinkle| scatter or pour small drops or particles of a substance over (an object or surface) [4] |
 | squeeze | extract (liquid or a soft substance) from something by compressing or twisting it firmly [4] |
-|  stem   |                        |
-|   stir  |                        |
+|  stem   | remove the stems from (fruit or tobacco leaves) [4] |
+|   stir  | mixing method in which ingredients are gently mixed by hand until blended, usually with a spoon, whisk or rubber spatula [1] |
 |  strain | pour foods through a sieve,  mesh strainer or cheesecloth to separate or remove the liquid component [1] |
 | stretch/roll out | flatten or spread (something) by using a roller or by passing it between rollers [4] |
 |  stuff  | fill (the cavity of an item of food) with a savory or sweet mixture, esp. before cooking [4], whith "fill": put something into (a space or container) so that it is completely or almost completely full [4] |
-|  toss   |                        |
+|  toss ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`   | throw (something) somewhere lightly, easily, or casually / shake or turn (food) in a liquid, so as to coat it lightly [4] |
 |  trim   |                        |
 |  whip   |                        |
 |  wipe   |                        |
