@@ -8,6 +8,7 @@ Sources:
 
 [3] M. Hazan, "Essentials of classic Italian cooking", Alfred A. Knopf, 2010.
 
+------------
 
 All verbs were extracted from each book, using the code in action_verbs_extraction.m
 
