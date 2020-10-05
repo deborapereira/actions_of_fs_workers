@@ -9,7 +9,7 @@ selected_verbs_list = table(selected_verbs_list.Vocabulary');
 selected_verbs_list = sortrows(selected_verbs_list,'Var1','ascend');
 selected_verbs_list = selected_verbs_list.Var1;
 
-% check which  books have each verb
+% check which  books have each verb 
 isInBook = NaN(length(selected_verbs_list),3); % 3 = nb of books
 for i=1:length(selected_verbs_list)
     isInBook(i,1) = length(find(strcmp(selected_verbs_US.US,selected_verbs_list(i))));
