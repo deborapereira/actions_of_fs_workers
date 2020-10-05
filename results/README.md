@@ -34,7 +34,7 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 |flip/turn| turn over or cause to turn over with a sudden sharp movement [1] |
 |fold/wrap| bend (something flexible and relatively flat) over on itself so that one part of it covers another [4] |      
 |  grate/crumble  | grate: cut a food into small, thin shreds by rubbing it against a serrated metal plate [1]; crumble: Refers to the breaking or food into small pieces such as dried bread or crackers, cooked bacon, or certain hard, dry cheeses that tend to be brittle and easily broken apart [5] |
-|  grease/brush | smear (=coat) or lubricate with grease [4] |
+|  grease | smear (=coat) or lubricate with grease [4] |
 | grind/mill/crush/crack | to pulverize or reduce food to small particles (powder) using a mechanical grinder or food processor [1] |
 |   gut   | take out the intestines and other internal organs of (a fish or other animal) before cooking it [4] | 
 |  insert | place, or fit (something) into another thing [4] |
@@ -50,7 +50,7 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 | rinse   | use clean water to remove soap, detergent, dirt, or impurities [4] |
 | roll    | turn (something flexible) over and over on itself to form a cylinder, tube, or ball [4] |
 | rotate  | move in a circle around an axis or center [4] |
-| rub/scrub/brush | move one's hand or a cloth repeatedly back and forth on the surface of (something) with firm pressure so as to clean them, typically with a brush and water [4] |    
+| rub/scrub | move one's hand or a cloth repeatedly back and forth on the surface of (something) with firm pressure so as to clean them, typically with a brush and water [4] |    
 |  scrape | push or pull a hard or sharp implement across (a surface or object) so as to remove dirt or other matter [4] |
 |   seal  | fasten or close securely [4] | 
 |sew/truss** | sew: join, fasten, or repair (something) by making stitches with a needle and thread or a sewing machine; truss: to tie poultry with butcher’s twine into a compact shape for cooking [2]; tie up the wings and legs of (a chicken or other bird) before cooking [4] ("...to hold the bird parts together" [5]) |
