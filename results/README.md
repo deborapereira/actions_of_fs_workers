@@ -14,6 +14,7 @@ All verbs were extracted from each book, using the code in action_verbs_extracti
 Misclassifications as well as verbs unrelated to movement (e.g. think, estimate), too general verbs (e.g. cut, cover) and verbs expressing a culinary process (e.g. freeze, fry) were manually discarded. The retained verbs were considered as action or task according to the specificity/complexity of the movement expressed by the verb. This specificity/complexity is implied in the verb definition, obtained complementarily from the culinary glossary in [1], the Oxford American Dictionary [4] and an online glossary [5]. Only verbs expressing an action are in our interest, so, the final list is available bellow.
 
 [4] Oxford Dictionaries and Oxford University Press, Concise Oxford American Dictionary, Oxford University Press, USA, 2006
+
 [5] "RecipeTips," [Online]. Available: https://www.recipetips.com/glossary.asp. [Accessed 03 2020].
 
 
