@@ -19,6 +19,8 @@ Misclassifications as well as verbs unrelated to movement (e.g. think, estimate)
 [5] "RecipeTips," [Online]. Available: https://www.recipetips.com/glossary.asp. [Accessed 03 2020].
 
 
+------------
+
 ## Movement-related verbs expressing an action 
 
 | VERB | DEFINITION                |
