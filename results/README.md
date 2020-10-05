@@ -35,7 +35,7 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 |fold/wrap| bend (something flexible and relatively flat) over on itself so that one part of it covers another [4] |      
 |  grate/crumble  | grate: cut a food into small, thin shreds by rubbing it against a serrated metal plate [1]; crumble: Refers to the breaking or food into small pieces such as dried bread or crackers, cooked bacon, or certain hard, dry cheeses that tend to be brittle and easily broken apart [5] |
 |  grease | smear (=coat) or lubricate with grease [4] |
-| grind/mill/crush/crack | to pulverize or reduce food to small particles (powder) using a mechanical grinder or food processor [1] |
+| grind/mill/crush | to pulverize or reduce food to small particles (powder) using a mechanical grinder or food processor [1] |
 |   gut   | take out the intestines and other internal organs of (a fish or other animal) before cooking it [4] | 
 |  insert | place, or fit (something) into another thing [4] |
 |  mash   | reduce food (e.g. garlic, potatoes) to a uniform mass by crushing it [4] |
