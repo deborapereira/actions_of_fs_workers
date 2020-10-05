@@ -55,7 +55,7 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 |   seal  | fasten or close securely [4] | 
 |sew/truss** | sew: join, fasten, or repair (something) by making stitches with a needle and thread or a sewing machine; truss: to tie poultry with butcher’s twine into a compact shape for cooking [2]; tie up the wings and legs of (a chicken or other bird) before cooking [4] ("...to hold the bird parts together" [5]) |
 | shake*** | move (an object) up and down or from side to side with rapid, forceful, jerky movements [4] |
-| shave/chip| shave: cut (a thin slice or slices) from the surface of something (e.g. chocolate, meat, cheese, ice) [4]; chip: thinly slice [5, "chipped beef"] | 
+| shave| shave: cut (a thin slice or slices) from the surface of something (e.g. chocolate, meat, cheese, ice) [4]; chip: thinly slice [5, "chipped beef"] | 
 |shell/shuck| The process of removing, peeling or discarding the outer covering on food items such as nuts, corn and shellfish. The husk is peeled from an ear of corn, the shell is removed from a nut, and the outer shell of a shellfish such as an oyster or a clam is also similarly removed or "shucked." [5]; remove the edible portion of a food (for example, clam meat, peas or an ear of corn) from its shell, pod or husk [1] |
 |  shred  | cut into thin but irregular strips [1] | 
 |   sift  | shaking one or more dry substances through a sieve or sifter to remove lumps, incorporate air and mix [1] |
