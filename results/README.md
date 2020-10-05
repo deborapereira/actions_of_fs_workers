@@ -59,7 +59,7 @@ Verbs unrelated to movement (actions or tasks) were discarded. The retained verb
 |shell/shuck| The process of removing, peeling or discarding the outer covering on food items such as nuts, corn and shellfish. The husk is peeled from an ear of corn, the shell is removed from a nut, and the outer shell of a shellfish such as an oyster or a clam is also similarly removed or "shucked." [5]; remove the edible portion of a food (for example, clam meat, peas or an ear of corn) from its shell, pod or husk [1] |
 |  shred  | cut into thin but irregular strips [1] | 
 |   sift  | shaking one or more dry substances through a sieve or sifter to remove lumps, incorporate air and mix [1] |
-| skim (degrease/defoam) | to remove fat and impurities from the surface of a liquid during cooking [1] | 
+| skim (degrease) | to remove fat and impurities from the surface of a liquid during cooking [1] | 
 |   skin  | to remove the skin from fish, poultry or game for reasons which include diet, taste and appearance. [5] |
 | slice   | to cut an item into relatively broad, thin pieces [1] |
 | spread  | cover (a surface) with a substance in such a way / distribute or disperse (something) over a certain area [4] |
