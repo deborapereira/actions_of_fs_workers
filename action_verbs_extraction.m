@@ -32,7 +32,7 @@ bag = removeLongWords(bag,15); % with 15 or more
 bag = removeInfrequentWords(bag,5);
 
 
-%% get only movement-related verbs
+%% get only movement-related verbs 
 
 exclude_unrelated_to_movement= ["accept","admit","advertise","advise","afford",...
     "approve","authorize","avoid","borrow","build","buy","calculate","call",...
