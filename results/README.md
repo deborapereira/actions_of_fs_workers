@@ -21,7 +21,7 @@ Misclassifications as well as verbs unrelated to movement (e.g. think, estimate)
 
 ------------
 
-## Movement-related verbs expressing an action 
+## Verbs expressing an action (retained)
 
 | VERB | DEFINITION                |
 | --- | --- |
@@ -86,6 +86,9 @@ Misclassifications as well as verbs unrelated to movement (e.g. think, estimate)
 
 ## Verbs not expressing an action/task (discarded)
 
+(Complete lists inside the code file.)
+
+
 ### Verbs related to cooking processes or food transformations:
 
 | EXAMPLES   |     |     |               |        |
@@ -98,7 +101,7 @@ Misclassifications as well as verbs unrelated to movement (e.g. think, estimate)
 | melt            | marinate          | poach             | crisp    | ...             |
 
 
-(Complete list inside the code file.)
+
 
 
 ### Verbs related to a purpose/goal or to a very general meaning:
