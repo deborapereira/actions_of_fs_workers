@@ -8,6 +8,8 @@ Sources:
 
 [3] M. Hazan, "Essentials of classic Italian cooking", Alfred A. Knopf, 2010.
 
+To obtain the books text, one can use Adobe Reader to convert the book (in pdf format) to a .txt file.
+
 ------------
 
 All verbs were extracted from each book, using the code in action_verbs_extraction.m
