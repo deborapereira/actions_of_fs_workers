@@ -10,8 +10,7 @@ else
     filename = 'txt files\on_cooking_book_2014.txt';
 end
 
-str = extractFileText(filename); % this function doesn't recognize if a word was split by paragraph, as: pre-
-% paration --> these become 2 tokens "pre-" and "paration", so, some verbs may have been missed
+str = extractFileText(filename); 
 textData = split(str,newline);
 documents = tokenizedDocument(textData);
 documents = addPartOfSpeechDetails(documents);
