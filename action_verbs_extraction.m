@@ -202,10 +202,6 @@ exclude_others = ["push","pull","press","hone","shred-cut","brush","thin-sliced"
 % plunge/dip
 % drain/strain
 
-% NEED TO INDICATE THE VERBS EXCLUDED FOR BEING TASKS OR PRIMITIVES
-
-
-% NEED TO SEPARATE THIS:
 
 
 bag2=removeWords(bag,exclude_unrelated_to_movement);
