@@ -55,7 +55,7 @@ Misclassifications as well as verbs unrelated to movement (e.g. think, estimate)
 | pour    | cause (a liquid) to flow from a container in a steady stream by holding the container at an angle [4] |
 | rinse   | use clean water to remove soap, detergent, dirt, or impurities [4] |
 | roll    | turn (something flexible) over and over on itself to form a cylinder, tube, or ball [4] |
-| rotate  | move in a circle around an axis or center [4] |
+| rotate\*| move in a circle around an axis or center [4] |
 | rub/scrub | move one's hand or a cloth repeatedly back and forth on the surface of (something) with firm pressure so as to clean them, typically with a brush and water [4] |    
 |  scrape | push or pull a hard or sharp implement across (a surface or object) so as to remove dirt or other matter [4] |
 |   seal  | fasten or close securely [4] | 
@@ -80,6 +80,8 @@ Misclassifications as well as verbs unrelated to movement (e.g. think, estimate)
 |trim/pare| cut off (irregular or unwanted parts) [4] |
 |  whip   | mixing method in which foods are vigorously beaten in order to incorporate air [1] |
 |  wipe   | clean or dry (something) by rubbing its surface with a cloth, a piece of paper, or one's hand [4] |
+
+\* Rotate, in the books, is usually a movement around an internal axis (spin). (In contrast, the verbs related to mixing are usually rotations around an external axis - e.g., the beating/whipping movement in planetary mixers.)
 
 ** The verb *sew (up)* is used in the Italian culinary book [3] in similar contexts to the use of the verb *truss* in the book [1], i.e. for closing meat pieces involving other parts (e.g. when stuffing chicken) before cooking.
 
