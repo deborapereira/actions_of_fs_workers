@@ -37,7 +37,7 @@ Misclassifications as well as verbs unrelated to movement (e.g. think, estimate)
 | divide  | separate or be separated into parts/portions [4] |
 | dip/plunge/immerse | put or let something down quickly or briefly in or into (liquid) [4] | 
 | fillet  | cut a boneless tenderloin of meat or the side of a fish, intact, boneless or semiboneless, with or without skin [1] |
-|flip/turn| turn over or cause to turn over with a sudden sharp movement [1] |
+|flip/turn/invert| turn over or cause to turn over with a sudden sharp movement [1] |
 |fold/wrap| bend (something flexible and relatively flat) over on itself so that one part of it covers another [4] |      
 |  grate/crumble  | grate: cut a food into small, thin shreds by rubbing it against a serrated metal plate [1]; crumble: Refers to the breaking or food into small pieces such as dried bread or crackers, cooked bacon, or certain hard, dry cheeses that tend to be brittle and easily broken apart [5] |
 |  grease | smear (=coat) or lubricate with grease [4] |
